@@ -1,0 +1,65 @@
+.raw:hover{
+	background: #CFF4FC;
+}
+
+.raw_active{
+	background: #CFF4FC;
+	color: #333;
+}
+
+.panel_title{
+	background: #EBFBFE;
+	color: #000;
+	text-transform: uppercase;
+}
+
+body{
+	font-size: 16px;
+}
+
+th{
+	background: #ddd;
+}
+
+input{
+	font-size: 16px;
+}
+
+#visor-content{
+	position: relative;
+	margin: 0 auto;
+	/*border:1px solid #CCC;*/
+	width: 1000px;
+	height: 500px;
+	/*background: #CCC;*/
+}
+
+#predios_Combo{
+	width: 300px;
+	padding-bottom:10px;	 
+}
+
+#selected_Combo{
+
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	background: #EEE;
+	border:1px solid #DDD;
+
+}
+
+#footer{
+
+	margin: 0 auto;
+	color: #333;
+	width: 1000px;
+	height: 10px;
+	text-align: center;
+	font-size: 12px;
+
+}
+
+
+
